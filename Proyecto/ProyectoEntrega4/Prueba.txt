@@ -1,0 +1,51 @@
+-
+Nombre: Miguel Angel Cruz Zavala
+Cuenta: 314135542
+Materias: Calculo Algebra Programacion Quimica Fisica Tutoria
+Calificaciones: 8 9 10 7 7 10
+Promedio:
+NumInscripcion:
+-
+Nombre: Macz
+Cuenta: 314135543
+Materias: Calculo Algebra Programacion Quimica Fisica Tutoria
+Calificaciones: 8 9 10 7 7 10
+Promedio:
+NumInscripcion:
+-
+Alumno:
+Nombre: Maczurc
+Cuenta: 314135544
+Materias: Calculo Algebra Programacion Quimica Fisica Tutoria
+Calificaciones: 8 9 10 7 7 10
+Promedio:
+NumInscripcion:
+-
+Nombre: Isaias Hernandez Guatemala
+Cuenta: 314317128
+Materias: Calculo Algebra Programacion Quimica Fisica Tutoria
+Calificaciones: 9 9 10 9 9 10
+Promedio:
+NumInscripcion:
+-
+Nombre: Cristina Aurora Hernandez Guatemala
+Cuenta: 317033870
+Materias: Calculo Algebra Programacion Quimica Fisica Tutoria
+Calificaciones: 8 9 10 7 7 10
+Promedio:
+NumInscripcion:
+-
+Nombre: Gozalez Garcia Oscar Uriel
+Cuenta: 314117904
+Materias: Calculo Algebra Programacion Quimica Fisica Tutoria
+Calificaciones: 8 9 10 7 7 10
+Promedio:
+NumInscripcion:
+-
+Nombre: Alejandra Monroy Velazquez
+Cuenta: 314000417
+Materias: Calculo Algebra Programacion Quimica Fisica Tutoria
+Calificaciones: 8 9 10 7 7 10
+Promedio:
+NumInscripcion:
+-
